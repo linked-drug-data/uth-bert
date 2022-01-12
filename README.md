@@ -8,8 +8,8 @@ https://github.com/google-research/bert<br>
 https://ai-health.m.u-tokyo.ac.jp/uth-bert<br>
 
 3. Pre-print (medRxiv)<br>
-A clinical specific BERT developed with huge size of Japanese clinical narrative<br>
-https://doi.org/10.1101/2020.07.07.20148585<br>
+Kawazoe Y, Shibata D, Shinohara E, Aramaki E, Ohe K. A clinical specific BERT developed using a huge Japanese clinical text corpus.PLoS One. 2021 Nov 9;16(11):e0259763.<br>
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259763<br>
 
 ## 1. Quick setup
 
